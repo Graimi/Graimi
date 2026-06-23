@@ -10,7 +10,7 @@ with an analytical background in finance and business management.
 
 ## 🌐 Selected Projects
 
-| Project | Sector |
+| Project | Sector 
 |---|---|
 | [EMTURIN (Current Proyect)](https://emturim.netlify.app) | Investigación académica
 | [Dra. Anabel Delgado](https://draanabeldelgado.com) | Medicina estética

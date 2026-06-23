@@ -12,10 +12,11 @@ with an analytical background in finance and business management.
 
 | Project | Sector | Stack |
 |---|---|---|
+| [EMTURIN (Current Proyect)](https://emturim.netlify.app) | Investigación académica | Static · Netlify |
 | [Dra. Anabel Delgado](https://draanabeldelgado.com) | Medicina estética | Next.js · Netlify |
 | [Alaneri](https://alaneri.com) | Inmobiliario rural | Static · Netlify |
 | [Ceres Boxeo](https://boxeoceres.netlify.app) | Deporte | React · Netlify |
-| [EMTURIN](https://emturim.netlify.app) | Investigación académica | Static · Netlify |
+
 
 These are representative projects. Several others are under NDA 
 or in active development.
